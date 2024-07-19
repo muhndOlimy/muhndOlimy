@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhnd Olimy</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="center">
   <img src="https://productplacementblog.com/wp-content/uploads/2019/04/Apple-Powerbook-Laptop-Used-by-Matthew-Perry-Chandler-Bing-in-Friends-Season-8-Episode-5-1-800x450.jpg">
@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhndalaa&label=Profile%20views&color=0e75b6&style=flat" alt="muhndalaa" /> </p>
 
-- 🔭 I’m currently working at **Kortobaa integrated solutions**
+- 🔭 I’m currently working at **Azentio Software Private Limited**
 
-- 🌱 I’m currently learning **Node.js , Express.js & MongoDB**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://muhndalaa.github.io/portfolio/](https://muhndalaa.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://muhndolimy.me/](https://muhndolimy.me/)
 
 - 💬 Ask me about **JS, Angular 2+ & React.js**
 
-- 📫 How to reach me **Mohanad96alaa@gmail.com**
+- 📫 How to reach me **muhnd.olimy@gmail.com**
 
 - ⚡ Fun fact **I Love football and i'am a FPL player**
 
